@@ -11,14 +11,16 @@ h1 {
   max-width: 600px;
 }
 
+#stripe {
+  background-color: white;
+  height: 30px;
+  text-align: center;
+}
+
 .square {
   width: 30%;
   background: purple;
   padding-bottom: 30%;
   float: left;
   margin: 1.66%;
-}
-
-span {
-  color: white;
 }
